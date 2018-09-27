@@ -10,11 +10,18 @@
   </head>
   <body>
     <div class="container">
-      <form id="puzzle-form">
-        <label>Type in a sentence to be puzzled:</label>
-        <input type="text" id="sentence">
-        <button type="submit">Submit</button>
-      </form>
+      <div class="row" id="puzzle">
+        <h1>Create your own word puzzle!</h1>
+        <form>
+          <label>Type in a sentence to be transformed into a word puzzle:</label>
+          <input type="text" id="sentence">
+          <button type="submit">Submit</button>
+        </form>
+      </div>
+      <div class="row" id="scrambled">
+        <h4>Have a friend guess what your original sentence was!</h4>
+        <p id="output"></p>
+      </div>
     </div>
   </body>
 </html>
