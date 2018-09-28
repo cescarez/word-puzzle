@@ -6,7 +6,7 @@
 
 ## Description
 
-_Take user input and create a word puzzle by transofrming all vowels into 'd's!_
+_Take user input and create a word puzzle by transofrming all vowels into '-'s!_
 
 ## Setup/Installation Requirements
 
