@@ -16,7 +16,7 @@ $(document).ready(function(){
 
     //create loop that executes for each letter of sentence
     for (var index = 0; index < inputArray.length; index +=1 ) {
-        if (inputArray[index] === "a" || inputArray[index] === "e" || inputArray[index] === "i" || inputArray[index] === "o" || inputArray[index] === "u") {
+        if (inputArray[index] === "a" || inputArray[index] === "e" || inputArray[index] === "i" || inputArray[index] === "o" || inputArray[index] === "u" || inputArray[index] === "A" || inputArray[index] === "E" || inputArray[index] === "I" || inputArray[index] === "O" || inputArray[index] === "U") {
         inputArray[index] = "-";
         console.log("replacing vowel");
       } else {;
