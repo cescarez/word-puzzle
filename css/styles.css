@@ -1,3 +1,7 @@
 #scrambled {
   display: none;
 }
+
+.error {
+  color: red;
+}
