@@ -1,12 +1,12 @@
 # _Word Puzzle_
 
-#### _Last updated September 19, 2018_
+#### _Last updated September 30, 2018_
 
 #### By _**Azul Rodriguez Da Silva && Christabel Escarez**_
 
 ## Description
 
-_Take user input and create a word puzzle by transofrming all vowels into '-'s!_
+_Take user input and create a word puzzle by transforming all vowels into '-'s!_
 
 ## Setup/Installation Requirements
 
@@ -17,7 +17,7 @@ _Take user input and create a word puzzle by transofrming all vowels into '-'s!_
 
 ## Known Bugs
 
-_As of 0750 9/27/218(CCE), word puzzle is not operational. User input is parsed into an array of each character (called inputArray), but the returned inputArray.length is 1 regardless of sentence length._
+_No known bugs, to date._
 
 ## Support and contact details
 
@@ -33,7 +33,7 @@ _Contact christabel.escarez@gmail.com or azuldejx@gmail.com with any technical i
 
 ### License
 
-Copyright (c) 2018 **Christabel Escarez** :dog:
+Copyright (c) 2018 **Christabel Escarez** :dog: && **Azul Rodriguez Da Silva**
 
 *This software is licensed under the GPL license.*
 
